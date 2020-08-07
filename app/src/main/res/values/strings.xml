@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assigment_longmt</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Yêu Thích</string>
+    <string name="title_dashboard">Thư Viện</string>
+    <string name="title_notifications">Cá Nhân</string>
+</resources>
